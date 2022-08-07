@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Go version >= 1.19
+- Go installed
 
 ## Assumption
 
